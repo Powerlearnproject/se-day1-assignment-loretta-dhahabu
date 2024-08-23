@@ -22,7 +22,21 @@ Innovation: By employing best practices in software engineering, organizations c
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+## Key Milestones in the evolution of Software Engineering
+Milestones include the development of programming languages (e.g., Fortran, C), the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s.
+1. The Birth of Software Engineering (1968)
+The term "software engineering" was popularized during the first Conference on Software Engineering, held in Garmisch, Germany, in 1968. This conference brought together academics, government officials, and industry representatives to discuss the challenges of software development.Before this milestone, software development was often regarded as an art rather than a formal engineering discipline. The conference highlighted the growing complexity of software systems, particularly in light of the increasing demands of users and the limitations of existing programming practices. 
 
+2. The Waterfall Model (1970s)
+The Waterfall Model, introduced by Winston W. Royce in 1970, was one of the first formal software development methodologies. It depicted a linear sequential approach to software development, comprising distinct phases such as requirements, design, implementation, testing, deployment, and maintenance. The Waterfall Model assumes that each phase must be completed before moving on to the next, with no overlap. While it provided a simple framework to manage software projects, it also highlighted some limitations.
+
+3. The Agile Manifesto (2001)
+In 2001, a group of software developers came together to draft the Agile Manifesto, a pivotal moment that shifted the focus of software development towards flexibility, collaboration, and customer-centricity. The Agile Manifesto emphasizes four key values:
+
+   ~ Individuals and interactions over processes and tools
+   ~ Working software over comprehensive documentation
+   ~ Customer collaboration over contract negotiation
+   ~ Responding to change over following a plan
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
