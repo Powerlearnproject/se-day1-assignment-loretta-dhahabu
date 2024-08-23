@@ -32,11 +32,11 @@ The Waterfall Model, introduced by Winston W. Royce in 1970, was one of the firs
 
 3. The Agile Manifesto (2001)
 In 2001, a group of software developers came together to draft the Agile Manifesto, a pivotal moment that shifted the focus of software development towards flexibility, collaboration, and customer-centricity. The Agile Manifesto emphasizes four key values:
-
-   ~ Individuals and interactions over processes and tools
-   ~ Working software over comprehensive documentation
-   ~ Customer collaboration over contract negotiation
-   ~ Responding to change over following a plan
+   
+    - Individuals and interactions over processes and tools
+    - Working software over comprehensive documentation
+    - Customer collaboration over contract negotiation
+    - Responding to change over following a plan
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
